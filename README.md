@@ -9,6 +9,8 @@
 
 Atualmente estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** pela **UNIPAR**.
 
+Tenho foco em desenvolvimento ***Back-End*** utilizando **SpringBoot** e, no momento, estou expandindo minha atuação profissional estudando *frameworks* ***Front-End*** como o **React**, visando uma formação mais completa como desenvolvedora ***Full Stack***.
+
 Sou uma profissional **dedicada**, **apaixonada por aprender** e por **compartilhar conhecimento**. Estou em busca de novas oportunidades na área de **TI**, especialmente em ambientes que valorizem o **crescimento contínuo** e o **trabalho em equipe**.
 
 <div align="center">
@@ -18,7 +20,7 @@ Sou uma profissional **dedicada**, **apaixonada por aprender** e por **compartil
 ---
 ## 🌟 Habilidades
 
-- Experiência prática em projetos colaborativos com Java, Spring Boot e integração de APIs REST  
+- Experiência prática em projetos colaborativos com Java, SpringBoot e integração de APIs REST  
 
 ---
 ## 📊 Estatísticas do GitHub
