@@ -45,8 +45,11 @@ Sou uma profissional **dedicada**, **apaixonada por aprender** e por **compartil
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🗃️ Banco de Dados  
+### 🗃️ Banco de Dados:  
 ![MySQL](https://img.shields.io/badge/MySQL-f0ffff?style=flat&logo=mysql&logoColor=005C84)
+
+### 📊 Análise de Dados / BI:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=flat&logo=microsoft-power-bi&logoColor=black)
 
 ---
 ## 📫 Contato
